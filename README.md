@@ -1,4 +1,3 @@
-
 # SQL Assignment
 
 ## Overview
@@ -30,12 +29,14 @@ SQL_assignment-main/
     └── question_05/
         └── 01_question.sql
 
-**File Description
-src/question_01/01_question.sql**
+
+
+**File Description**
+src/question_01/01_question.sql
 
 This file contains the main ecommerce database setup and SQL queries.
 
-Topics covered:
+**Topics covered:**
 
 Create the ecommerce database.
 Create the following four tables:
@@ -277,5 +278,5 @@ Applying SQL window functions.
 Comparing current and previous rows using LAG().
 Ranking records using RANK().
 Finding first and last values using window functions.
-**Author**
-Gnanendra Reddy Avula 
+
+
