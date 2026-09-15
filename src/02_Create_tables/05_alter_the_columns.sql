@@ -1,8 +1,0 @@
-ALTER TABLE gold_member_users
-ALTER COLUMN user_id VARCHAR(50);
-
-ALTER TABLE sales
-ALTER COLUMN user_id VARCHAR(50);
-
-ALTER TABLE product
-ALTER COLUMN product_id INT;
