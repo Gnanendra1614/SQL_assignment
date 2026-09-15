@@ -1,8 +1,3 @@
-SQL Assignment
-Overview
-This repository contains SQL solutions for the SQL Assignment. The assignment covers ecommerce database operations, aggregation, joins, string and date functions, table alterations, transactions, duplicate detection, and window functions.
-
-The assignment is organized into five SQL files under the src directory.
 
 # SQL Assignment
 
@@ -35,8 +30,8 @@ SQL_assignment-main/
     └── question_05/
         └── 01_question.sql
 
-File Description
-src/question_01/01_question.sql
+**File Description
+src/question_01/01_question.sql**
 
 This file contains the main ecommerce database setup and SQL queries.
 
@@ -282,5 +277,5 @@ Applying SQL window functions.
 Comparing current and previous rows using LAG().
 Ranking records using RANK().
 Finding first and last values using window functions.
-Author
+**Author**
 Gnanendra Reddy Avula 
